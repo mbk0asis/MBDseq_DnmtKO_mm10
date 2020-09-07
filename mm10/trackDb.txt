@@ -1,0 +1,151 @@
+### Dnmt1 KO ###
+track Dnmt1_KO_1
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DnmtKO_mm10/blob/master/mm10/Dnmt1KO-1-1.PE.sam.BWA.sorted.bam.RPGC.bw
+shortLabel Dnmt1_KO_1
+longLabel Dnmt1_KO_1
+type bigWig
+color 0,180,255
+
+track Dnmt1_KO_1_markDup
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DnmtKO_mm10/blob/master/mm10/Dnmt1KO-1-1.PE.sam.BWA.sorted.bam.markDup.bam.RPGC.bw
+shortLabel Dnmt1_KO_1_markDup
+longLabel Dnmt1_KO_1_markDup
+type bigWig
+color 0,180,255
+
+track Dnmt1KO_2
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DnmtKO_mm10/blob/master/mm10/Dnmt1KO-1-2.PE.sam.BWA.sorted.bam.RPGC.bw
+shortLabel Dnmt1KO_2
+longLabel Dnmt1KO_2
+type bigWig
+color 0,180,255
+
+track Dnmt1KO_2_markDup
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DnmtKO_mm10/blob/master/mm10/Dnmt1KO-1-2.PE.sam.BWA.sorted.bam.markDup.bam.RPGC.bw
+shortLabel Dnmt1KO_2_markDup
+longLabel Dnmt1KO_2_markDup
+type bigWig
+color 0,180,255
+
+
+### Double KO ###
+track DoubleKO_1_1
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DoubleKO_mm10/blob/master/mm10/DoubleKO-1-1.PE.sam.BWA.sorted.bam.RPGC.bw
+shortLabel DoubleKO_1_1
+longLabel DoubleKO_1_1
+type bigWig
+color 0,180,255
+
+track DoubleKO_1_1_markDup
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DoubleKO_mm10/blob/master/mm10/DoubleKO-1-1.PE.sam.BWA.sorted.bam.markDup.bam.RPGC.bw
+shortLabel DoubleKO_1_1_markDup
+longLabel DoubleKO_1_1_markDup
+type bigWig
+color 0,180,255
+
+
+track DoubleKO_1_2
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DoubleKO_mm10/blob/master/mm10/DoubleKO-1-2.PE.sam.BWA.sorted.bam.RPGC.bw
+shortLabel DoubleKO_1_2
+longLabel DoubleKO_1_2
+type bigWig
+color 0,180,255
+
+track DoubleKO_1_2_markDup
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DoubleKO_mm10/blob/master/mm10/DoubleKO-1-2.PE.sam.BWA.sorted.bam.markDup.bam.RPGC.bw
+shortLabel DoubleKO_1_2_markDup
+longLabel DoubleKO_1_2_markDup
+type bigWig
+color 0,180,255
+
+
+track DoubleKO_2_1
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DoubleKO_mm10/blob/master/mm10/DoubleKO-1-1.PE.sam.BWA.sorted.bam.RPGC.bw
+shortLabel DoubleKO_2_1
+longLabel DoubleKO_2_1
+type bigWig
+color 0,180,255
+
+track DoubleKO_2_1_markDup
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DoubleKO_mm10/blob/master/mm10/DoubleKO-1-1.PE.sam.BWA.sorted.bam.markDup.bam.RPGC.bw
+shortLabel DoubleKO_2_1_markDup
+longLabel DoubleKO_2_1_markDup
+type bigWig
+color 0,180,255
+
+
+track DoubleKO_2_2
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DoubleKO_mm10/blob/master/mm10/DoubleKO-1-2.PE.sam.BWA.sorted.bam.RPGC.bw
+shortLabel DoubleKO_2_2
+longLabel DoubleKO_2_2
+type bigWig
+color 0,180,255
+
+track DoubleKO_2_2_markDup
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DoubleKO_mm10/blob/master/mm10/DoubleKO-1-2.PE.sam.BWA.sorted.bam.markDup.bam.RPGC.bw
+shortLabel DoubleKO_2_2_markDup
+longLabel DoubleKO_2_2_markDup
+type bigWig
+color 0,180,255
+
+
+### Triple KO ###
+track TripleKO_1_1
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_TripleKO_mm10/blob/master/mm10/TripleKO-1-1.PE.sam.BWA.sorted.bam.RPGC.bw
+shortLabel TripleKO_1_1
+longLabel TripleKO_1_1
+type bigWig
+color 0,180,255
+
+track TripleKO_1_1_markDup
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_TripleKO_mm10/blob/master/mm10/TripleKO-1-1.PE.sam.BWA.sorted.bam.markDup.bam.RPGC.bw
+shortLabel TripleKO_1_1_markDup
+longLabel TripleKO_1_1_markDup
+type bigWig
+color 0,180,255
+
+
+track TripleKO_1_2
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_TripleKO_mm10/blob/master/mm10/TripleKO-1-2.PE.sam.BWA.sorted.bam.RPGC.bw
+shortLabel TripleKO_1_2
+longLabel TripleKO_1_2
+type bigWig
+color 0,180,255
+
+track TripleKO_1_2_markDup
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_TripleKO_mm10/blob/master/mm10/TripleKO-1-2.PE.sam.BWA.sorted.bam.markDup.bam.RPGC.bw
+shortLabel TripleKO_1_2_markDup
+longLabel TripleKO_1_2_markDup
+type bigWig
+color 0,180,255
+
+
+track TripleKO_2_1
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_TripleKO_mm10/blob/master/mm10/TripleKO-1-1.PE.sam.BWA.sorted.bam.RPGC.bw
+shortLabel TripleKO_2_1
+longLabel TripleKO_2_1
+type bigWig
+color 0,180,255
+
+track TripleKO_2_1_markDup
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_TripleKO_mm10/blob/master/mm10/TripleKO-1-1.PE.sam.BWA.sorted.bam.markDup.bam.RPGC.bw
+shortLabel TripleKO_2_1_markDup
+longLabel TripleKO_2_1_markDup
+type bigWig
+color 0,180,255
+
+
+track TripleKO_2_2
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_TripleKO_mm10/blob/master/mm10/TripleKO-1-2.PE.sam.BWA.sorted.bam.RPGC.bw
+shortLabel TripleKO_2_2
+longLabel TripleKO_2_2
+type bigWig
+color 0,180,255
+
+track TripleKO_2_2_markDup
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_TripleKO_mm10/blob/master/mm10/TripleKO-1-2.PE.sam.BWA.sorted.bam.markDup.bam.RPGC.bw
+shortLabel TripleKO_2_2_markDup
+longLabel TripleKO_2_2_markDup
+type bigWig
+color 0,180,255
+
