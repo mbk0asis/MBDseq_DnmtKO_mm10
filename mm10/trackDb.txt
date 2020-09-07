@@ -1,3 +1,19 @@
+### Wild_type ###
+track Wild_type
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DnmtKO_mm10/blob/master/WT.bwa.sam.sorted.bam.RPGC.bw
+shortLabel Wild_type
+longLabel Wild_type
+type bigWig
+color 0,180,255
+
+track Wild_type_markDup
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DnmtKO_mm10/blob/master/WT.bwa.sam.sorted.bam.markDup.bam.RPGC.bw
+shortLabel Wild_type_markDup
+longLabel Wild_type_markDup
+type bigWig
+color 0,180,255
+
+
 ### Dnmt1 KO ###
 track Dnmt1_KO_1
 bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DnmtKO_mm10/blob/master/mm10/Dnmt1KO-1-1.PE.sam.BWA.sorted.bam.RPGC.bw
@@ -147,5 +163,5 @@ bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_TripleKO_mm10/blob/
 shortLabel TripleKO_2_2_markDup
 longLabel TripleKO_2_2_markDup
 type bigWig
-color 0,180,255
+color 0,180,250
 
