@@ -163,5 +163,4 @@ bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_TripleKO_mm10/blob/
 shortLabel TripleKO_2_2_markDup
 longLabel TripleKO_2_2_markDup
 type bigWig
-color 0,180,250
-
+color 0,180,255
