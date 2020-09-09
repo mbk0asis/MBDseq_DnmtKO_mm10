@@ -14,14 +14,14 @@ bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DnmtKO_mm10/master/
 shortLabel Dnmt1_KO_1_markDup_bin500_noNorm
 longLabel Dnmt1_KO_1_markDup_bin500_noNorm
 type bigWig
-color 0,0,150
+color 150,0,0
 
 track Dnmt1_KO_2_markDup_bin500_noNorm
 bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DnmtKO_mm10/master/mm10/Dnmt1KO-1-2.bwa.mm10.sam.sorted.bam.markDup.bam.bin500.noNorm.bw
 shortLabel Dnmt1_KO_2_markDup_bin500_noNorm
 longLabel Dnmt1_KO_2_markDup_bin500_noNorm
 type bigWig
-color 0,0,150
+color 150,0,0
 
 
 
@@ -31,28 +31,28 @@ bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DnmtKO_mm10/master/
 shortLabel DoubleKO_1_1_markDup_bin500_noNorm
 longLabel DoubleKO_1_1_markDup_bin500_noNorm
 type bigWig
-color 0,150,150
+color 0,0,150
 
 track DoubleKO_1_2_markDup_bin500_noNorm
 bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DnmtKO_mm10/master/mm10/DoubleKO-1-2.bwa.mm10.sam.sorted.bam.markDup.bam.bin500.noNorm.bw
 shortLabel DoubleKO_1_2_markDup_bin500_noNorm
 longLabel DoubleKO_1_2_markDup_bin500_noNorm
 type bigWig
-color 0,150,150
+color 0,0,150
 
 track DoubleKO_2_1_markDup_bin500_noNorm
 bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DnmtKO_mm10/master/mm10/DoubleKO-2-1.bwa.mm10.sam.sorted.bam.markDup.bam.bin500.noNorm.bw
 shortLabel DoubleKO_2_1_markDup_bin500_noNorm
 longLabel DoubleKO_2_1_markDup_bin500_noNorm
 type bigWig
-color 0,150,150
+color 0,0,150
 
 track DoubleKO_2_2_markDup_bin500_noNorm
 bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DnmtKO_mm10/master/mm10/DoubleKO-2-2.bwa.mm10.sam.sorted.bam.markDup.bam.bin500.noNorm.bw
 shortLabel DoubleKO_2_2_markDup_bin500_noNorm
 longLabel DoubleKO_2_2_markDup_bin500_noNorm
 type bigWig
-color 0,150,150
+color 0,0,150
 
 
 
@@ -62,28 +62,28 @@ bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DnmtKO_mm10/master/
 shortLabel TripleKO_1_1_markDup_bin500_noNorm
 longLabel TripleKO_1_1_markDup_bin500_noNorm
 type bigWig
-color 150,0,0
+color 150,0,150
 
 track TripleKO_1_2_markDup_bin500_noNorm
 bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DnmtKO_mm10/master/mm10/TripleKO-1-2.bwa.mm10.sam.sorted.bam.markDup.bam.bin500.noNorm.bw
 shortLabel TripleKO_1_2_markDup_bin500_noNorm
 longLabel TripleKO_1_2_markDup_bin500_noNorm
 type bigWig
-color 150,0,0
+color 150,0,150
 
 track TripleKO_2_1_markDup_bin500_noNorm
 bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DnmtKO_mm10/master/mm10/TripleKO-2-1.bwa.mm10.sam.sorted.bam.markDup.bam.bin500.noNorm.bw
 shortLabel TripleKO_2_1_markDup_bin500_noNorm
 longLabel TripleKO_2_1_markDup_bin500_noNorm
 type bigWig
-color 150,0,0
+color 150,0,150
 
 track TripleKO_2_2_markDup_bin500_noNorm
 bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DnmtKO_mm10/master/mm10/TripleKO-2-2.bwa.mm10.sam.sorted.bam.markDup.bam.bin500.noNorm.bw
 shortLabel TripleKO_2_2_markDup_bin500_noNorm
 longLabel TripleKO_2_2_markDup_bin500_noNorm
 type bigWig
-color 150,0,0
+color 150,0,150
 
 
 
