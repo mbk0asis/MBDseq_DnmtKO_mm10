@@ -1,10 +1,99 @@
 ### Wild_type ###
+track Wild_type_markDup_bin500_noNorm
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DnmtKO_mm10/master/mm10/WT.bwa.mm10.sam.sorted.bam.markDup.bam.bin500.noNorm.bw
+shortLabel Wild_type_markDup_bin500_noNorm
+longLabel Wild_type_markDup_bin500_noNorm
+type bigWig
+color 0,100,0
+
+
+
+### Dnmt1 KO ###
+track Dnmt1_KO_1_markDup_bin500_noNorm
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DnmtKO_mm10/master/mm10/Dnmt1KO-1-1.bwa.mm10.sam.sorted.bam.markDup.bam.RPGC.bw
+shortLabel Dnmt1_KO_1_markDup_bin500_noNorm
+longLabel Dnmt1_KO_1_markDup_bin500_noNorm
+type bigWig
+color 200,100,0
+
+track Dnmt1_KO_2_markDup_bin500_noNorm
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DnmtKO_mm10/master/mm10/Dnmt1KO-1-2.bwa.mm10.sam.sorted.bam.markDup.bam.bin500.noNorm.bw
+shortLabel Dnmt1_KO_2_markDup_bin500_noNorm
+longLabel Dnmt1_KO_2_markDup_bin500_noNorm
+type bigWig
+color 200,100,0
+
+
+
+### Double KO ###
+track DoubleKO_1_1_markDup_bin500_noNorm
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DnmtKO_mm10/master/mm10/DoubleKO-1-1.bwa.mm10.sam.sorted.bam.markDup.bam.bin500.noNorm.bw
+shortLabel DoubleKO_1_1_markDup_bin500_noNorm
+longLabel DoubleKO_1_1_markDup_bin500_noNorm
+type bigWig
+color 255,0,120
+
+track DoubleKO_1_2_markDup_bin500_noNorm
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DnmtKO_mm10/master/mm10/DoubleKO-1-2.bwa.mm10.sam.sorted.bam.markDup.bam.bin500.noNorm.bw
+shortLabel DoubleKO_1_2_markDup_bin500_noNorm
+longLabel DoubleKO_1_2_markDup_bin500_noNorm
+type bigWig
+color 255,0,120
+
+track DoubleKO_2_1_markDup_bin500_noNorm
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DnmtKO_mm10/master/mm10/DoubleKO-2-1.bwa.mm10.sam.sorted.bam.markDup.bam.bin500.noNorm.bw
+shortLabel DoubleKO_2_1_markDup_bin500_noNorm
+longLabel DoubleKO_2_1_markDup_bin500_noNorm
+type bigWig
+color 255,0,120
+
+track DoubleKO_2_2_markDup_bin500_noNorm
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DnmtKO_mm10/master/mm10/DoubleKO-2-2.bwa.mm10.sam.sorted.bam.markDup.bam.bin500.noNorm.bw
+shortLabel DoubleKO_2_2_markDup_bin500_noNorm
+longLabel DoubleKO_2_2_markDup_bin500_noNorm
+type bigWig
+color 255,0,120
+
+
+
+### Triple KO ###
+track TripleKO_1_1_markDup_bin500_noNorm
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DnmtKO_mm10/master/mm10/TripleKO-1-1.bwa.mm10.sam.sorted.bam.markDup.bam.bin500.noNorm.bw
+shortLabel TripleKO_1_1_markDup_bin500_noNorm
+longLabel TripleKO_1_1_markDup_bin500_noNorm
+type bigWig
+color 255,0,0
+
+track TripleKO_1_2_markDup_bin500_noNorm
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DnmtKO_mm10/master/mm10/TripleKO-1-2.bwa.mm10.sam.sorted.bam.markDup.bam.bin500.noNorm.bw
+shortLabel TripleKO_1_2_markDup_bin500_noNorm
+longLabel TripleKO_1_2_markDup_bin500_noNorm
+type bigWig
+color 255,0,0
+
+track TripleKO_2_1_markDup_bin500_noNorm
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DnmtKO_mm10/master/mm10/TripleKO-2-1.bwa.mm10.sam.sorted.bam.markDup.bam.bin500.noNorm.bw
+shortLabel TripleKO_2_1_markDup_bin500_noNorm
+longLabel TripleKO_2_1_markDup_bin500_noNorm
+type bigWig
+color 255,0,0
+
+track TripleKO_2_2_markDup_bin500_noNorm
+bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DnmtKO_mm10/master/mm10/TripleKO-2-2.bwa.mm10.sam.sorted.bam.markDup.bam.bin500.noNorm.bw
+shortLabel TripleKO_2_2_markDup_bin500_noNorm
+longLabel TripleKO_2_2_markDup_bin500_noNorm
+type bigWig
+color 255,0,0
+
+
+
+### Wild_type ###
 track Wild_type_markDup
 bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DnmtKO_mm10/master/mm10/WT.bwa.mm10.sam.sorted.bam.markDup.bam.RPGC.bw
 shortLabel Wild_type_markDup
 longLabel Wild_type_markDup
 type bigWig
-color 255,180,0
+color 0,200,0
 
 
 
@@ -52,7 +141,7 @@ bigDataUrl https://raw.githubusercontent.com/mbk0asis/MBDseq_DnmtKO_mm10/master/
 shortLabel DoubleKO_2_2_markDup
 longLabel DoubleKO_2_2_markDup
 type bigWig
-color 255,180,0
+color 50,250,50
 
 
 
